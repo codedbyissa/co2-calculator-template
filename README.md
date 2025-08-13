@@ -5,7 +5,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![Preview](https://co2c.byissa.tech/preview.png)
+![Preview](https://co2c.byissa.dev/preview.png)
 
 <p align="center">
   <a href="#about">About</a> •
@@ -28,7 +28,7 @@ CO2 Calculator is a static and responsive web model designed for companies to ca
 
 This project is built with PHP, HTML, CSS, and JavaScript, aiming to provide an easy-to-use and comprehensive environmental impact tool.
 
-[![project](https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project)](https://co2c.byissa.tech/)
+[![project](https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project)](https://co2c.byissa.dev/)
 
 <h2 id="features">✨ Features</h2>
 
